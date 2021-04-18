@@ -1,4 +1,4 @@
-# Citadel APAC Datathon-The Data Open2021
+# Citadel APAC Datathon - The Data Open2021
 
 ### Motivation
 **Home Team Advantage (covered by Tsun Wang Sau) :** What is the home team advantage? Put it simply, it is the idea that the team playing on their home turf has an unseen advantage in helping them win the match. Is it a myth? Well, through our study we shall visit if that is indeed the case and if it has a place in aiding us to predict the outcome of a match.
