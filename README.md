@@ -1,4 +1,4 @@
-# Citadel-APAC-Datathon--The-Data-Open-2021
+# Citadel APAC Datathon-The Data Open2021
 
 ### Motivation
 **Home Team Advantage (covered by Tsun Wang Sau) :** What is the home team advantage? Put it simply, it is the idea that the team playing on their home turf has an unseen advantage in helping them win the match. Is it a myth? Well, through our study we shall visit if that is indeed the case and if it has a place in aiding us to predict the outcome of a match.
@@ -22,6 +22,7 @@ Our team prepared four models: Time Series (to predict the number of goals score
 This project was created by the members of team 2, namely, Siddhant Pathak, Tsun Wang Sau, Tsz Hin Koon and Derek Ng Wei Kang.
 
 I express my gratitude and thanks to Professor Dr Sourav Sen Gupta, whose constant support and guidance made this project possible.
+
 
 License
 MIT License
